@@ -51,7 +51,6 @@ Gem::Specification.new do |gem|
   gem.add_dependency "aws-sdk-secretsmanager", "1.9"
   gem.add_dependency "aws-sdk-s3", "~> 1.67"
   gem.add_dependency "bigdecimal", "~> 1.4.0"
-  gem.add_dependency "openc_industry_codes"
 
   # gem.add_development_dependency "perftools.rb"
   gem.add_development_dependency "byebug", "~> 10.0"
